@@ -11,6 +11,7 @@ as regras na Figura 7.32. Use variáveis para monitorar as posições dos animai
 na posição 1 (a "largada"). Se um animal escorregar para a esquerda do quadrado 1, mova-o novamente para o quadrado 1.
 
 Tartaruga 
+
 Caminhada rápida  50%     3 quadrados à direita
 
 Escorregão        20%     6 quadrados à esquerda
