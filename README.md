@@ -12,6 +12,9 @@ na posição 1 (a "largada"). Se um animal escorregar para a esquerda do quadrad
 
 Tartaruga 
 
+
+tipo de movimento   % do tempo movimento
+
 Caminhada rápida  50%     3 quadrados à direita
 
 Escorregão        20%     6 quadrados à esquerda
