@@ -10,6 +10,11 @@ Um relógio emite um tique por segundo. A cada tique-taque do relógio, seu apli
 as regras na Figura 7.32. Use variáveis para monitorar as posições dos animais (isto é, os números de posição são 1 a 70). Inicie cada animal
 na posição 1 (a "largada"). Se um animal escorregar para a esquerda do quadrado 1, mova-o novamente para o quadrado 1.
 
-Tartaruga Caminhada rápida  50%     3 quadrados à direita
-          Escorregão        20%     6 quadrados à esquerda
-          Caminhada lenta   30%     1 quadrado à direita
+Tartaruga 
+Caminhada rápida  50%     3 quadrados à direita
+
+Escorregão        20%     6 quadrados à esquerda
+
+Caminhada lenta   30%     1 quadrado à direita
+
+
