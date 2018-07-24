@@ -36,3 +36,19 @@ Salto pequeno       30%        1 quadrado à direita
 
 Escorregão pequeno 20%         2 quadrados à esquerda
 
+
+Gere as porcentagens na Figura 7.32 produzindo um inteiro aleatório i no intervalo 1 d i d 10. Para a tartaruga, realize uma “caminhada rápida” quando 1 d i d 5, um “escorregão” quando 6 d i d 7 ou uma “caminhada lenta” quando 8 d i d 10. Utilize uma técnica semelhante para mover a lebre.
+Comece a corrida exibindo
+BANG !!!!!
+E LÁ VÃO ELES !!!!!
+Então, para cada tique do relógio (isto é, para cada repetição de um loop), exiba uma linha de 70 posições mostrando a letra T na posi-
+ção da tartaruga e a letra H na posição da lebre. Ocasionalmente, os competidores ocuparão o mesmo quadrado. Nesse caso, a tartaruga
+morde a lebre e seu aplicativo deve exibir AI!!! começando nessa posição. Todas as outras posições da saída diferentes de T, H ou AI!!!
+(no caso de um empate) devem estar em branco.
+Depois de cada linha ser exibida, teste se o animal alcançou ou passou o quadrado 70. Se tiver alcançado, exiba o vencedor e termine a
+simulação. Se a tartaruga ganhar, exiba A TARTARUGA VENCEU!!! ÊH!!! Se a lebre ganhar, exiba A LEBRE GANHOU. OH. Se os dois
+ganharem na mesma hora, você pode querer favorecer a tartaruga (a "coitadinha") ou exibir OCORREU UM EMPATE. Se nenhum animal
+ganhar, realize o loop novamente para simular o próximo tique do relógio. Quando você estiver pronto para executar seu aplicativo, monte
+um grupo de fãs para observar a corrida. Você se surpreenderá com a empolgação da sua audiência!
+Mais adiante no livro, introduziremos várias capacidades do Java, como gráficos, imagens, animação, som e multithreading. À medida
+que estudar esses recursos, você pode se divertir aprimorando sua simulação da competição entre a lebre e a tartaruga.
