@@ -19,3 +19,9 @@ Escorregão        20%     6 quadrados à esquerda
 Caminhada lenta   30%     1 quadrado à direita
 
 
+Lebre Dormir              20%     Sem nenhum movimento
+      Salto grande        20%     9 quadrados à direita
+      Escorregão grande   10%     12 quadrados à esquerda
+      Salto pequeno       30%     1 quadrado à direita
+      Escorregão pequeno 20%     2 quadrados à esquerda
+
